@@ -1,51 +1,33 @@
-# Mail Project
+# Mingrui Chen
+I am a student interested in Artificial Intelligence and Machine Learning 
 
-## Project Overview
-A comprehensive mail management system written in Python, featuring modules for sending alarm emails with customizable configurations and monitoring capabilities.
+My goal is to build real AI systems and eventually create useful AI products.
 
-## Features
-- Alarm mail sender with configurable triggers
-- Email notification system
-- Support for multiple email protocols
-- Customizable alarm thresholds and conditions
-- User-friendly configuration management
-- Real-time monitoring and alerts
+## Projects
 
-## Tech Stack
-- **Language**: Python (100%)
-- **Email Protocol**: SMTP
-- **Framework**: Flask (for web interface)
-- **Libraries**: smtplib, email
+- ### AI Chat CLI
+A command-line chatbot using LLM API with multi turn conversation.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mingruichen-python/mail.git
-   cd mail
-   ```
+- ### Digit Recognition（CNN）
+A convolutional neural network on MNIST dataset.
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+- ### AI Digit APP (Streamlit)
+A web app where users can draw digits and get predictions.
 
-3. Configure your email settings in the configuration file
+- ### Email Remainder Tool
+A Python tool that sends scheduled email reminders
 
-4. Run the alarm mail sender:
-   ```bash
-   python alarm_mail_sender/main.py
-   ```
+- ### Helper Tools
+A collection of useful Python tools
 
-## Results
-This mail management system successfully:
-- Sends timely alarm notifications via email
-- Provides reliable monitoring and alerting capabilities
-- Enables users to configure custom alarm conditions
-- Demonstrates effective integration of Python with email services
+## Skils
+- Python
+- Machine Learning
+- Deep Learning(CNN)
+- API Integration
+- Streamlit
 
-## Project Structure
-```
-mail/
-├── alarm mail sender/  - Main alarm email sender module
-└── README.md          - Project documentation
-```
+## Goals
+- Build AI systems
+- Apply to top universities
+- Create real-world AI products
